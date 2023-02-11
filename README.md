@@ -29,6 +29,13 @@ This repository is for storing the tasks for the project 2035
 
 # Reposytoryes:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=super-mario-python)](https://github.com/QuadDarv1ne/super-mario-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=vue-interactive-paycard)](https://github.com/QuadDarv1ne/vue-interactive-paycard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 > Это цитата: Если называть Python заменой BASIC, то тогда и трансформер Optimus Prime — это только замена грузовика.
 >
