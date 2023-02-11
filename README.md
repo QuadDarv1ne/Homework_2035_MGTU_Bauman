@@ -34,8 +34,22 @@ This repository is for storing the tasks for the project 2035
 >
 > Cory Dodt
 
+# Иконки проектов:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue&layout=compact)](https://github.com/piyushsuthar/github-readme-quotes)
+
 - 1 Первый пункт
 - 2 Второй пункт
 - 3 Третий пункт
 - 4 Четвёртый пункт
 - 5 Пятый пункт
+
+### <h3 align="center"> 2023 Year </h3>
