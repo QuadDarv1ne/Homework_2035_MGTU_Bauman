@@ -16,26 +16,26 @@ This repository is for storing the tasks for the project 2035
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuadDarv1ne)](https://git.io/streak-stats)
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne&theme=nonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=nonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Reposytoryes:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=super-mario-python)](https://github.com/QuadDarv1ne/super-mario-python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=vue-interactive-paycard)](https://github.com/QuadDarv1ne/vue-interactive-paycard)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=super-mario-python)](https://github.com/QuadDarv1ne/super-mario-python)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=vue-interactive-paycard)](https://github.com/QuadDarv1ne/vue-interactive-paycard)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 > Это цитата: Если называть Python заменой BASIC, то тогда и трансформер Optimus Prime — это только замена грузовика.
 >
@@ -51,9 +51,9 @@ This repository is for storing the tasks for the project 2035
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme-sigma-five.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme-sigma-five.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme-sigma-five.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 1 Первый пункт
 - 2 Второй пункт
